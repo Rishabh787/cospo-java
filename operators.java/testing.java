@@ -7,10 +7,11 @@ public class testing{
         // System.out.println(b==a);
         // System.out.println(a<b);
         // System.out.println(b<a);
-        int c = 15;
-        int d = 15;
+        // int c = 15;
+        // int d = 15;
         // System.out.println(c<=d);
         // System.out.println(d<=c);
-        System.out.println(c>=d && d>=c);
+        // System.out.println(c>=d && d>=c);
+        System.out.println(9>7 || 7>8);
     }
 }
