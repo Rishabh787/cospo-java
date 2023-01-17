@@ -12,6 +12,6 @@ public class testing{
         // System.out.println(c<=d);
         // System.out.println(d<=c);
         // System.out.println(c>=d && d>=c);
-        System.out.println(9>7 || 7>8);
+        System.out.println(9>7 || 8>8);
     }
 }
